@@ -9,7 +9,7 @@
 - Step 6. Choose the .aia file from step 2
 - Step 7. Once you are in the project click the "Connect" button at the top of the screen and choose "AI Companion"
 - Step 8. Open the MIT AI2 Companion app you downloaded in step 1 and type in the 6 digit code the website gave you.
-- Step 9. It should load into the browser!
+- Step 9. That's it!
 #### What now?
 Essentially this is your standard, barebones web browser. You can have up to 6 tabs open at the same time, however its not recommended because this eats up your RAM real fast. Also, the button on the right of the URL bar allows you to run JS aka Bookmarklets so have fun with that ig
 #### "It says the webpage is not available!"
