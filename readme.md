@@ -1,5 +1,5 @@
 # BlobbypassMIT
-## This is Blobbypass but the GUI is remastered and also its a full-on browser whaaa... BlobbypassPlus :O
+### This is Blobbypass but the GUI is remastered and also its a full-on browser whaaa... BlobbypassPlus :O
 #### How to use
 - Step 1. You will need to download the [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) app. If its blocked for you, this wont work -- sorry!
 - Step 2. Download the BlobbypassPlus .aia file by clicking [this link](https://tinyurl.com/BlobbypassAIA)
