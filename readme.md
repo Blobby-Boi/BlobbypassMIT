@@ -1,5 +1,7 @@
 # BlobbypassMIT
 ### This is the Blob-bypass but the GUI is remastered and actually decent for once (also its a full-on browser :O)
+> [!WARNING]
+> I did not "invent" or "discover" this webview method, I just made the Blobbypass browser app. You can stop calling me a "skid" now 😅
 #### How to use
 - Step 1. You will need to download the [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) app from the Play Store. If it's blocked for you, this wont work — sorry!
 - Step 2. Download the BlobbypassPlus .aia file by clicking [this link](https://tinyurl.com/BlobbypassAIA)
