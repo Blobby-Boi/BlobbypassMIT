@@ -5,7 +5,7 @@
 #### How to use
 - Step 1. You will need to download the [MIT AI2 Companion](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3) app from the Play Store. If it's blocked for you, this wont work — sorry!
 - Step 2. Download the BlobbypassPlus.aia file from this repository or click [this link](https://drive.google.com/uc?export=download&id=1PNHu_d8a-DXiWPeLaqVqYtljYPtEgS69).
-- Step 3. Go to MIT App Inventor using this link -> [code2.appinventor.mit.edu/](https://code2.appinventor.mit.edu/)
+- Step 3. Go to MIT App Inventor using this url -> [code2.appinventor.mit.edu/](https://code2.appinventor.mit.edu/)
 - Step 4. You can now choose to either login with your school email so the project saves, or use a guest account.
 - Step 5. In the dashboard, click the import button (it's the file icon on the right of the "+ New Project" button)
 - Step 6. Choose the .aia file from step 2
