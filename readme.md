@@ -10,7 +10,7 @@
 - Step 5. In the dashboard, click the import button (it's the file icon on the right of the "+ New Project" button)
 - Step 6. Choose the .aia file from step 2
 - Step 7. Once you are in the project click the "Connect" button at the top of the screen and pick "AI Companion"
-- Step 8. Open the MIT AI2 Companion app you downloaded in step 1 and type the 6 digit code the website gave you. Click connect, and wait about 20 seconds for it to load.
+- Step 8. Open the MIT AI2 Companion app you downloaded in step 1 and type the 6 digit code the website gave you. Click connect, and then wait about 20 seconds for it to load.
 - Step 9. That's it!
 #### What now?
 Essentially this is your standard, barebones web browser. You can have up to 6 tabs open at the same time, but it's not recommended since this eats up your RAM real fast. Also, the button on the right of the URL bar allows you to run JS aka Bookmarklets so have fun with that ig
